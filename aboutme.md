@@ -1,15 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Eleni Voudouris. I am currently a sophomore studying Computer Science at the University of Illinois at Urbana Champaign.
 
 ### My story
 
